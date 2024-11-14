@@ -194,6 +194,10 @@ a {
   font-weight: 700;
 }
 
+.title-1 {
+  color: #2c1c5f;
+}
+
 .title-2 {
   color: #dc6803;
 }
@@ -207,5 +211,5 @@ a {
 }
 
 .title-5 {
-  color: #475467;
+  color: #667085;
 }
